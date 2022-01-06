@@ -1,5 +1,5 @@
 # CompatibilityModeling
-This is a fork of sfb833-a3/CompatibilityModeling that includes the parts that can be made publicly available.
+This is a fork of sfb833-a3/CompatibilityModeling that includes the parts that can be made publicly available. Code written by [janniss91](https://github.com/janniss91).
 
 ## Setup
 

@@ -1,0 +1,6 @@
+finalfusion==0.7.1
+pyconll==2.3.3
+python-igraph==0.8.3
+pytest==6.1.2
+scikit-learn==0.23.2
+torch==1.7.1
